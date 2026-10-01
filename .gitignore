@@ -14,8 +14,12 @@ __pycache__/
 # Configurações do VS Code (opcional, descomente se quiser incluir)
 # .vscode/
 
+# Configuração pessoal do usuário (gerada automaticamente pelo programa)
+config.json
+
 # Logs
 *.log
+organizador.log
 
 # Arquivos de sistema
 .DS_Store
